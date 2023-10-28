@@ -10,13 +10,15 @@ But before the graduation I joined OSSU community. To be honest, it's awesome co
 
 <br>
 
-I also participated in <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/majorleaguehacking-color.svg" width="32" height="32" alt="major-league-hacking"> hackthons before.
+<p>I also participated in hackthons before through MLH.
+
+<img src="assets/majorleaguehacking-color.svg" width="32" height="32" alt="major-league-hacking">
 
 I’m looking to collaborate on any interest project idea, get in touch if you have one 😁
 
 👨‍💻 &nbsp;Tech Stack
 
-<img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-python.svg" width="32" height="32" alt="python"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-c-programming.svg" width="32" height="32" alt="c"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-c++.svg" width="32" height="32" alt="c++"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/postgresql-color.svg" width="32" height="32" alt="postgres"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-django.svg" width="32" height="32" alt="django" style="padding-right: 5px"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-flask-50.png" width="32" height="32" alt="flask"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-git.svg" width="32" height="32" alt="git"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-github-64.png" width="32" height="32" alt="github"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/ubuntu-color.svg" width="32" height="32" alt="ubuntu"> 
+<img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-python.svg" width="32" height="32" alt="python"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-c-programming.svg" width="32" height="32" alt="c"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-c++.svg" width="32" height="32" alt="c++"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/postgresql-color.svg" width="32" height="32" alt="postgres"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-django.svg" width="32" height="32" alt="django" style="padding-right: 5px"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-flask-50.png" width="32" height="32" alt="flask"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-git.svg" width="32" height="32" alt="git"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/icons8-github-64.png" width="32" height="32" alt="github"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/ubuntu-color.svg" width="32" height="32" alt="ubuntu"> alt="github"> <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/macos-color.svg" width="32" height="32" alt="macos"> 
 
 📚 &nbsp;Interests 
 * Operating Systems
@@ -30,20 +32,14 @@ I’m looking to collaborate on any interest project idea, get in touch if you h
 <br>
 
 🌱 &nbsp;Currently Learning
-1. [x] Algorithms Specialization by Standford on Coursera
-2. [x] Reading Operating System Three Easy Pieces
-3. [x] Reading Pro Git book
-4. [x] Fundamental of Networking by Hussein Nasser on Udemy
+1. [ ] Algorithms Specialization by Standford on Coursera
+2. [ ] Reading Operating System Three Easy Pieces
+3. [ ] Reading Pro Git book
+4. [ ] Fundamental of Networking by Hussein Nasser on Udemy
 
 <br>
 
 <hr>
-
-💼 &nbsp;Professional Experience
-<br>
-
-📥 &nbsp;[Download Resume](https://drive.google.com/file/d/1-ymYU9lcHaDROxmiSgFAwCFDLmCEEcWJ/view?usp=sharing), I have used [<img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/overleaf-color.svg" width="16" height="16" alt="overleaf">verleaf](https://www.overleaf.com/) for the resume
-
 📫 &nbsp;Get in Touch
 <br>
 
@@ -51,6 +47,11 @@ I’m looking to collaborate on any interest project idea, get in touch if you h
 * <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/linkedin-color.svg" width="16" height="16" alt="c" style="padding-top: 1px;"> &nbsp;LinkedIn: [Muhammad El Sayed](https://www.linkedin.com/in/muhammad-elsayed-awad/)
 * <img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/gmail-color.svg" width="16" height="16" alt="c" style="padding-top: 1px;"> &nbsp;Email: muhammad.elsayedx@gmail.com
 * 🌍 Portfolio: [Muhammad El Sayed]()
+
+<br>
+💼 &nbsp;Professional Experience
+
+* 📥 &nbsp;[Download Resume](https://drive.google.com/file/d/1-ymYU9lcHaDROxmiSgFAwCFDLmCEEcWJ/view?usp=sharing), I have used [<img src="https://github.com/muhammadelsayedx/muhammadelsayedx/blob/master/assets/overleaf-color.svg" width="16" height="16" alt="overleaf">verleaf](https://www.overleaf.com/) for the resume.
 
 <hr>
 
