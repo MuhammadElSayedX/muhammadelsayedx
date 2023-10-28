@@ -9,8 +9,8 @@ But before the graduation I joined OSSU community. To be honest, it's awesome co
 </a>
 
 <br>
-
-<p>I also participated in hackthons before through MLH.
+<br>
+I also participated in hackthons before through MLH.
 
 <img src="assets/majorleaguehacking-color.svg" width="32" height="32" alt="major-league-hacking">
 
